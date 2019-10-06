@@ -1,0 +1,24 @@
+{
+  "name": "EX-typescript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "next": "^9.0.8",
+    "react": "^16.10.2",
+    "react-dom": "^16.10.2"
+  },
+  "devDependencies": {
+    "@types/node": "^12.7.11",
+    "@types/react": "^16.9.5",
+    "typescript": "^3.6.3"
+  }
+}
